@@ -1,0 +1,1 @@
+# inteligence-checker
