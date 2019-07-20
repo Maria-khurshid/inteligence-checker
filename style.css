@@ -1,0 +1,23 @@
+body {
+    margin: 0;
+    padding: 0%;
+    widows: 100wh;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    box-sizing: border-box;
+    background-color: blueviolet;
+}
+
+input {
+    padding: 1.8em;
+    font-size: 1em;
+}
+
+button {
+    margin-top: 3em;
+    margin-left: 5em;
+    padding: 1.5em;
+    border: none;
+}
